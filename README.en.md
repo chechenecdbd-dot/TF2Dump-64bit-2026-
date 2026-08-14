@@ -41,5 +41,5 @@ This project is licensed under a **Custom Non‑Commercial License**. See the [L
 
 ---
 
-*Author: .SxS  
-*Last Updated: 2026*
+Author: .SxS  
+Last Updated: 2026*

@@ -50,6 +50,7 @@ This project is licensed under a **Custom Non‑Commercial License**. See the [L
 ---
 
 Author: .SxS
+
 Last Updated: August 14, 2026
 
 </details>
@@ -102,6 +103,7 @@ Last Updated: August 14, 2026
 ---
 
 Автор: .SxS
+
 Последнее обновление: 14 августа 2026
 
 </details>
